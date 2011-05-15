@@ -1,0 +1,236 @@
+DATE: ERRNO: 8
+ERROR: Undefined index: text
+FILE: /home/dreake/public_html/stronki/translate/system/translate.php
+LINE: 11
+DATE: ERRNO: 8
+ERROR: Undefined index: text
+FILE: /home/dreake/public_html/stronki/translate/system/translate.php
+LINE: 11
+DATE: ERRNO: 8
+ERROR: Undefined index: text
+FILE: /home/dreake/public_html/stronki/translate/system/translate.php
+LINE: 11
+DATE: ERRNO: 8
+ERROR: Undefined index: text
+FILE: /home/dreake/public_html/stronki/translate/system/translate.php
+LINE: 11
+DATE: ERRNO: 8
+ERROR: Undefined index: text
+FILE: /home/dreake/public_html/stronki/translate/system/translate.php
+LINE: 11
+DATE: ERRNO: 8
+ERROR: Undefined index: text
+FILE: /home/dreake/public_html/stronki/translate/system/translate.php
+LINE: 11
+DATE: ERRNO: 8
+ERROR: Undefined index: text
+FILE: /home/dreake/public_html/stronki/translate/system/translate.php
+LINE: 11
+DATE: ERRNO: 8
+ERROR: Undefined index: text
+FILE: /home/dreake/public_html/stronki/translate/system/translate.php
+LINE: 11
+DATE: ERRNO: 8
+ERROR: Undefined index: text
+FILE: /home/dreake/public_html/stronki/translate/system/translate.php
+LINE: 11
+DATE: ERRNO: 8
+ERROR: Undefined index: text
+FILE: /home/dreake/public_html/stronki/translate/system/translate.php
+LINE: 11
+DATE: ERRNO: 8
+ERROR: Undefined index: text
+FILE: /home/dreake/public_html/stronki/translate/system/translate.php
+LINE: 11
+DATE: ERRNO: 8
+ERROR: Undefined index: text
+FILE: /home/dreake/public_html/stronki/translate/system/translate.php
+LINE: 11
+DATE: ERRNO: 8
+ERROR: Undefined index: text
+FILE: /home/dreake/public_html/stronki/translate/system/translate.php
+LINE: 11
+DATE: ERRNO: 8
+ERROR: Undefined index: text
+FILE: /home/dreake/public_html/stronki/translate/system/translate.php
+LINE: 11
+DATE: ERRNO: 8
+ERROR: Undefined index: text
+FILE: /home/dreake/public_html/stronki/translate/system/translate.php
+LINE: 11
+DATE: ERRNO: 8
+ERROR: Undefined index: text
+FILE: /home/dreake/public_html/stronki/translate/system/translate.php
+LINE: 11
+DATE: ERRNO: 8
+ERROR: Undefined index: text
+FILE: /home/dreake/public_html/stronki/translate/system/translate.php
+LINE: 11
+DATE: ERRNO: 8
+ERROR: Undefined index: text
+FILE: /home/dreake/public_html/stronki/translate/system/translate.php
+LINE: 11
+DATE: ERRNO: 8
+ERROR: Undefined index: text
+FILE: /home/dreake/public_html/stronki/translate/system/translate.php
+LINE: 11
+DATE: ERRNO: 8
+ERROR: Undefined index: text
+FILE: /home/dreake/public_html/stronki/translate/system/translate.php
+LINE: 11
+DATE: ERRNO: 8
+ERROR: Undefined index: text
+FILE: /home/dreake/public_html/stronki/translate/system/translate.php
+LINE: 11
+DATE: ERRNO: 8
+ERROR: Undefined index: text
+FILE: /home/dreake/public_html/stronki/translate/system/translate.php
+LINE: 11
+DATE: ERRNO: 8
+ERROR: Undefined index: text
+FILE: /home/dreake/public_html/stronki/translate/system/translate.php
+LINE: 11
+DATE: ERRNO: 8
+ERROR: Undefined index: text
+FILE: /home/dreake/public_html/stronki/translate/system/translate.php
+LINE: 11
+DATE: ERRNO: 8
+ERROR: Undefined index: text
+FILE: /home/dreake/public_html/stronki/translate/system/translate.php
+LINE: 11
+DATE: ERRNO: 8
+ERROR: Undefined index: text
+FILE: /home/dreake/public_html/stronki/translate/system/translate.php
+LINE: 11
+DATE: ERRNO: 8
+ERROR: Undefined index: text
+FILE: /home/dreake/public_html/stronki/translate/system/translate.php
+LINE: 11
+DATE: ERRNO: 8
+ERROR: Undefined index: text
+FILE: /home/dreake/public_html/stronki/translate/system/translate.php
+LINE: 11
+DATE: ERRNO: 8
+ERROR: Undefined index: text
+FILE: /home/dreake/public_html/stronki/translate/system/translate.php
+LINE: 11
+DATE: ERRNO: 8
+ERROR: Undefined index: text
+FILE: /home/dreake/public_html/stronki/translate/system/translate.php
+LINE: 11
+DATE: ERRNO: 8
+ERROR: Undefined index: text
+FILE: /home/dreake/public_html/stronki/translate/system/translate.php
+LINE: 11
+DATE: ERRNO: 8
+ERROR: Undefined index: text
+FILE: /home/dreake/public_html/stronki/translate/system/translate.php
+LINE: 11
+DATE: ERRNO: 8
+ERROR: Undefined index: text
+FILE: /home/dreake/public_html/stronki/translate/system/translate.php
+LINE: 11
+DATE: ERRNO: 8
+ERROR: Undefined index: text
+FILE: /home/dreake/public_html/stronki/translate/system/translate.php
+LINE: 11
+DATE: ERRNO: 8
+ERROR: Undefined index: text
+FILE: /home/dreake/public_html/stronki/translate/system/translate.php
+LINE: 11
+DATE: ERRNO: 8
+ERROR: Undefined index: text
+FILE: /home/dreake/public_html/stronki/translate/system/translate.php
+LINE: 11
+DATE: ERRNO: 8
+ERROR: Undefined index: text
+FILE: /home/dreake/public_html/stronki/translate/system/translate.php
+LINE: 11
+DATE: ERRNO: 8
+ERROR: Undefined index: text
+FILE: /home/dreake/public_html/stronki/translate/system/translate.php
+LINE: 11
+DATE: ERRNO: 8
+ERROR: Undefined index: text
+FILE: /home/dreake/public_html/stronki/translate/system/translate.php
+LINE: 11
+DATE: ERRNO: 8
+ERROR: Undefined index: text
+FILE: /home/dreake/public_html/stronki/translate/system/translate.php
+LINE: 11
+DATE: ERRNO: 8
+ERROR: Undefined index: text
+FILE: /home/dreake/public_html/stronki/translate/system/translate.php
+LINE: 11
+DATE: ERRNO: 8
+ERROR: Undefined index: text
+FILE: /home/dreake/public_html/stronki/translate/system/translate.php
+LINE: 11
+DATE: ERRNO: 8
+ERROR: Undefined index: text
+FILE: /home/dreake/public_html/stronki/translate/system/translate.php
+LINE: 11
+DATE: ERRNO: 8
+ERROR: Undefined index: text
+FILE: /home/dreake/public_html/stronki/translate/system/translate.php
+LINE: 11
+DATE: ERRNO: 8
+ERROR: Undefined index: text
+FILE: /home/dreake/public_html/stronki/translate/system/translate.php
+LINE: 11
+DATE: ERRNO: 8
+ERROR: Undefined index: text
+FILE: /home/dreake/public_html/stronki/translate/system/translate.php
+LINE: 11
+DATE: ERRNO: 8
+ERROR: Undefined index: text
+FILE: /home/dreake/public_html/stronki/translate/system/translate.php
+LINE: 11
+DATE: ERRNO: 8
+ERROR: Undefined index: text
+FILE: /home/dreake/public_html/stronki/translate/system/translate.php
+LINE: 11
+DATE: ERRNO: 8
+ERROR: Undefined index: text
+FILE: /home/dreake/public_html/stronki/translate/system/translate.php
+LINE: 11
+DATE: ERRNO: 8
+ERROR: Undefined index: text
+FILE: /home/dreake/public_html/stronki/translate/system/translate.php
+LINE: 11
+DATE: ERRNO: 8
+ERROR: Undefined index: text
+FILE: /home/dreake/public_html/stronki/translate/system/translate.php
+LINE: 11
+DATE: ERRNO: 2
+ERROR: file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: php_network_getaddresses: getaddrinfo failed: Name or service not known
+FILE: /home/dreake/public_html/stronki/translate/system/Translator.php
+LINE: 31
+DATE: ERRNO: 2
+ERROR: file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: php_network_getaddresses: getaddrinfo failed: Name or service not known
+FILE: /home/dreake/public_html/stronki/translate/system/Translator.php
+LINE: 31
+DATE: ERRNO: 2
+ERROR: file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: php_network_getaddresses: getaddrinfo failed: Name or service not known
+FILE: /home/dreake/public_html/stronki/translate/system/Translator.php
+LINE: 31
+DATE: ERRNO: 2
+ERROR: file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: php_network_getaddresses: getaddrinfo failed: Name or service not known
+FILE: /home/dreake/public_html/stronki/translate/system/Translator.php
+LINE: 31
+DATE: ERRNO: 2
+ERROR: file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: php_network_getaddresses: getaddrinfo failed: Name or service not known
+FILE: /home/dreake/public_html/stronki/translate/system/Translator.php
+LINE: 31
+DATE: ERRNO: 2
+ERROR: file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: php_network_getaddresses: getaddrinfo failed: Name or service not known
+FILE: /home/dreake/public_html/stronki/translate/system/Translator.php
+LINE: 31
+DATE: ERRNO: 2
+ERROR: file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: php_network_getaddresses: getaddrinfo failed: Name or service not known
+FILE: /home/dreake/public_html/stronki/translate/system/Translator.php
+LINE: 31
+DATE: ERRNO: 2
+ERROR: file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: php_network_getaddresses: getaddrinfo failed: Name or service not known
+FILE: /home/dreake/public_html/stronki/translate/system/Translator.php
+LINE: 31

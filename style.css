@@ -1,0 +1,85 @@
+@charset "utf-8";
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, font, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	font-size: 100%;
+	vertical-align: baseline;
+	background: transparent;
+}
+body {
+	font:1em Arial,sans-serif;
+	line-height: 1;
+	text-align:center;
+}
+
+ #container {
+ 	background:rgba(197,254,103, .7);
+	border: 6px solid #97ff00;
+	margin:2em auto; 
+	padding:1em;
+	text-align:left;
+ 	width:500px;
+	
+	-webkit-border-radius: 10px;
+	-khtml-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+ }
+ 
+ 	#text {
+ 		background:#e3feb7;
+		border: 1px solid #b8ff44;
+		color:#212121;
+		font:1.4em italic;
+ 	}
+	
+	#submit {		
+		color:#212121;
+		font:1.1em italic;
+	}
+	 .langSettings {
+	 	font-size:.8em;
+	 }
+	 
+	 
+	 #result {
+	 	background:rgba(255,84,0, .5);
+		border: 3px solid #ff5500;#ff5500;
+		display:none;
+		font-size:1.3em;
+		margin:1em auto; 
+		padding:1em;
+		text-align:center;
+	 	width:400px;
+	 	-webkit-border-radius: 10px;
+		-khtml-border-radius: 10px;
+		-moz-border-radius: 10px;
+		border-radius: 10px;
+	 }
+	 
+	 
+	 #footer {
+		color:#6d6d6d;
+		margin:2em auto; 
+		padding:1em;
+		text-align:center;
+	 	width:500px;
+	 }
+	 
+	 
+	 .changeImg {
+	 	cursor:pointer;
+		float:right;
+		margin:-15px 210px 0 0;
+	 }

@@ -1,0 +1,8 @@
+
+CREATE TABLE IF NOT EXISTS `translated`(
+`id` INT NOT NULL AUTO_INCREMENT,
+`md5` CHAR(32) NOT NULL,
+`translate` LONGTEXT NOT NULL,
+`lang` CHAR(2),
+PRIMARY KEY(`id`)
+);
